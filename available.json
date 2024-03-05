@@ -1,0 +1,8 @@
+[
+  {
+    "contract":0x123,
+    "token":"name",
+    "description":"description",
+    "url":"url"
+  }
+]
