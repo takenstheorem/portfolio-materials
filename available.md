@@ -18,4 +18,4 @@ https://cubiclearn.gitbook.io/dae/dae/g-l-space/identity
 
 * Full set of 4 curated, modified the_coin tokens (mid 2021; [post](https://twitter.com/tokenfox1/status/1733019906990313775)). See details [here](https://opensea.io/collection/the-coin-by-takens-theorem). Tokens [#3](https://opensea.io/assets/ethereum/0xf76c5d925b27a63a3745a6b787664a7f38fa79bd/3), [#8](https://opensea.io/assets/ethereum/0xf76c5d925b27a63a3745a6b787664a7f38fa79bd/8), [#80](https://opensea.io/assets/ethereum/0xf76c5d925b27a63a3745a6b787664a7f38fa79bd/80), [#72](https://opensea.io/assets/ethereum/0xf76c5d925b27a63a3745a6b787664a7f38fa79bd/72)
 
-* The Mesh (early 2022; [post](https://twitter.com/simondlr/status/1522385679484813312) [token #1](https://opensea.io/assets/ethereum/0x625955aee56aa5b245627b2901a46b6b0de9a3a2/1). Details [here](https://the-mesh.eth.limo).
+* The Mesh (early 2022; [post](https://twitter.com/simondlr/status/1522385679484813312)) [token #1](https://opensea.io/assets/ethereum/0x625955aee56aa5b245627b2901a46b6b0de9a3a2/1). Details [here](https://the-mesh.eth.limo).
