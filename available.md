@@ -1,6 +1,8 @@
 ## Primaries Available
 
-For the creative context of these works, I welcome you to peruse writings and wider portfolio projects on my main website here: https://takens.eth.limo.
+For creative context of my wider work, I welcome you to peruse information on my main website here: 
+
+https://takens.eth.limo.
 
 ### Listed for immediate pickup
 
