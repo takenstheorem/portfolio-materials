@@ -2,7 +2,7 @@
 
 For creative context of my wider work, I welcome you to peruse information on my main website here: 
 
-[takens.eth.limo](https://takens.eth.limo){:target="_blank"}
+[takens.eth.limo](https://takens.eth.limo)
 
 ### Listed for immediate pickup
 
