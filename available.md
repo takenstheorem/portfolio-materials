@@ -8,7 +8,7 @@ https://takens.eth.limo
 
 **De-Automated #2 - #10 // Patternbase x Takens Theorem** ([post](https://twitter.com/im_not_art/status/1695832292306948352))
 
-Project from late 2023, with physical item reedemable as a representation of human-transformed data: 'Our information space, already saturated, now grows in tidal waves of content from artificial neural networks. De-Automated expresses the desire many of us have to go in reverse. To reclaim artifacts of our digital environment back into ones that echo the presence of fellow minds. We bring automation to heel by appropriating it.'
+Project from late 2023, with physical item redeemable as a representation of human-transformed data: 'Our information space, already saturated, now grows in tidal waves of content from artificial neural networks. De-Automated expresses the desire many of us have to go in reverse. To reclaim artifacts of our digital environment back into ones that echo the presence of fellow minds. We bring automation to heel by appropriating it.'
 
 https://www.patternbase.io/de-automated
 
