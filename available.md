@@ -26,4 +26,4 @@ I often hold my own projects. Now and again, I consider parting with some that m
 
 * The Mesh (early 2022; [post](https://twitter.com/simondlr/status/1522385679484813312)) [token #1](https://opensea.io/assets/ethereum/0x625955aee56aa5b245627b2901a46b6b0de9a3a2/1). Details [here](https://the-mesh.eth.limo).
 
-* Existing holders of main projects can engage *Perpetual* forever. See [here](https://perpetua.takens.eth.limo).
+* Existing holders of main projects can engage *Perpetual* forever. See [here](https://perpetual.takens.eth.limo).
